@@ -4,6 +4,7 @@
   The goal of this project was to predict maximum temperature and precipitation using both short-term and long-term approaches, helping to improve decision-making in the agricultural sector.
 📌 Implemented Models:
 
+
 🕒 Short-Term Forecasting:
  • Linear Regression
  • Support Vector Regression (SVR)
@@ -14,6 +15,7 @@
 
  • MAE = 0.02 for Random Forest (Max Temperature)
  • MAE = 0.02 for CNN (Precipitation)
+ 
 📆 Long-Term Forecasting:
 
  • ARIMAX Model
